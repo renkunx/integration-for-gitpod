@@ -6,7 +6,7 @@ This is a [Appwrite](https://appwrite.io/) template configured for ephemeral dev
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/appwrite/integration-for-gitpod)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/renkunx/integration-for-gitpod)
 
 ## Get Started With Your Own Project
 
